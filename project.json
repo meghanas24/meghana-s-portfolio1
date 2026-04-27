@@ -1,0 +1,24 @@
+{
+  "overview": "A premium personal portfolio website for Meghana Suvarna, a CSBS (Computer Science and Business Systems) student. Features a dark mode design with neon gradient accents, glassmorphism UI, and smooth scroll animations across hero, about, skills, projects, education timeline, and contact sections.",
+  "features": [
+    "Animated hero with floating gradient blobs and neon glow CTAs",
+    "Categorized skills with animated progress indicators",
+    "Interactive project cards for Skill-O-Scope and CarbonSense AI with hover effects",
+    "Education and certification timeline with animated connectors",
+    "Modern contact form with animated send button and social links",
+    "Full glassmorphism design with backdrop blur and soft shadows",
+    "Scroll-triggered fade-in animations throughout",
+    "Fully responsive on mobile, tablet, and desktop"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "dark-mode",
+    "glassmorphism",
+    "animations",
+    "personal-branding",
+    "data-analytics",
+    "csbs"
+  ],
+  "last_updated": "2026-04-17T09:13:40.649Z"
+}
